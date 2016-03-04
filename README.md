@@ -8,11 +8,11 @@
 	2.MFC界面，界面开发难度大
 ##注意事项
 	如果使用该源码，请准守开源协议，并请勿修改原作者名称
-![MIT协议内容](https://github.com/NullYing/GxClient/raw/master/LICENSE)
+[MIT协议内容](https://github.com/NullYing/GxClient/raw/master/LICENSE)
 #客户端界面
-		该源码客户端界面
+该源码客户端界面<br />
 ![客户端界面](https://raw.githubusercontent.com/NullYing/GxClient/master/images/GxClent.png)  
-		新客户端界面
+新客户端界面<br />
 ![新客户端界面](https://github.com/NullYing/GxClient/raw/master/images/NewGxClient.png)
 ##支持新客户端开发
 	如你的学校符合认证类型，并想新客户端支持你所在的学校，请发送邮件至ourweijiang@gmail.com
@@ -22,7 +22,7 @@
 		天翼的eduBas：
 		中兴的BasIP：(如果使用中兴)
 #莞香广科
-官网：![http://www.gxgk.cc](http://www.gxgk.cc)
+官网：[http://www.gxgk.cc](http://www.gxgk.cc)
 		莞香广科是学生自建的互联网创新团队。团队成立于2012年5月，以校园论坛起步，逐渐发展了校园网资源共享站、媒体中心、微信助手等项目。
 #客户端声明
 ##Lucj’s Zte 客户端声明
