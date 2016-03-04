@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\ZTE">
+      <UniqueIdentifier>{a9b75171-2a5d-4a98-be94-e7193f0e6057}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\ZTE\Encrypt">
+      <UniqueIdentifier>{97d4f31f-4c1d-4d97-bdac-36be50ac6ca2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\ZTE">
+      <UniqueIdentifier>{934a5d11-87cc-4590-a462-e8618382bdb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\ZTE\Encrypt">
+      <UniqueIdentifier>{d9c90e27-3129-45c3-ae12-763d35c14e91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\UI">
+      <UniqueIdentifier>{de6f8fe6-905e-4732-9661-d37a585d380e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\UI">
+      <UniqueIdentifier>{2af8017a-5a76-4f4e-a112-8075dc812a87}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GKlogin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GKloginDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZTE\Encrypt\md5.h">
+      <Filter>头文件\ZTE\Encrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="ZTE\Encrypt\aes.h">
+      <Filter>头文件\ZTE\Encrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="ZTE\Encrypt\rc4.h">
+      <Filter>头文件\ZTE\Encrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="ZTE\Encrypt\global.h">
+      <Filter>头文件\ZTE\Encrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\HyperLink.h">
+      <Filter>头文件\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="ZTE\Packet.h">
+      <Filter>头文件\ZTE</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\SystemTray.h">
+      <Filter>头文件\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZTE\WebAuth.h">
+      <Filter>头文件\ZTE</Filter>
+    </ClInclude>
+    <ClInclude Include="ZTE\SettingDlg.h">
+      <Filter>头文件\ZTE</Filter>
+    </ClInclude>
+    <ClInclude Include="AutoUpdate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ChangePWD.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZTE\authcode.h">
+      <Filter>头文件\ZTE</Filter>
+    </ClInclude>
+    <ClInclude Include="ZTE\Encrypt\BASE64.h">
+      <Filter>头文件\ZTE\Encrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="ZTE\WebAuth2.h">
+      <Filter>头文件\ZTE</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GKlogin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GKloginDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZTE\Encrypt\aes.cpp">
+      <Filter>源文件\ZTE\Encrypt</Filter>
+    </ClCompile>
+    <ClCompile Include="ZTE\Encrypt\rc4.cpp">
+      <Filter>源文件\ZTE\Encrypt</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\HyperLink.cpp">
+      <Filter>源文件\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="ZTE\Packet.cpp">
+      <Filter>源文件\ZTE</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\SystemTray.cpp">
+      <Filter>源文件\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Service.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AutoUpdate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Config.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZTE\WebAuth.cpp">
+      <Filter>源文件\ZTE</Filter>
+    </ClCompile>
+    <ClCompile Include="ZTE\Reminder.cpp">
+      <Filter>源文件\ZTE</Filter>
+    </ClCompile>
+    <ClCompile Include="ZTE.cpp">
+      <Filter>源文件\ZTE</Filter>
+    </ClCompile>
+    <ClCompile Include="ZTE\Network.cpp">
+      <Filter>源文件\ZTE</Filter>
+    </ClCompile>
+    <ClCompile Include="ZTE\SettingDlg.cpp">
+      <Filter>源文件\ZTE</Filter>
+    </ClCompile>
+    <ClCompile Include="ZTE\EAP_Protocol.cpp">
+      <Filter>源文件\ZTE</Filter>
+    </ClCompile>
+    <ClCompile Include="ZTE\GetAccountMsg.cpp">
+      <Filter>源文件\ZTE</Filter>
+    </ClCompile>
+    <ClCompile Include="ChangePWD.cpp">
+      <Filter>源文件\ZTE</Filter>
+    </ClCompile>
+    <ClCompile Include="ZTE\authcode.cpp">
+      <Filter>源文件\ZTE</Filter>
+    </ClCompile>
+    <ClCompile Include="ZTE\Encrypt\BASE64.cpp">
+      <Filter>源文件\ZTE\Encrypt</Filter>
+    </ClCompile>
+    <ClCompile Include="ZTE\Encrypt\md5.cpp">
+      <Filter>源文件\ZTE\Encrypt</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="GKlogin.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\GKlogin.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\GKlogin.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\favicon.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\erweima.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Banner.png">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Manifest Include="UI\XPSkin.manifest" />
+  </ItemGroup>
+</Project>

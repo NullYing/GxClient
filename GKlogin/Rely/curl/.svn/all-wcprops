@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/1/zte-client-win/curl
+END
+stdcheaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1/zte-client-win/curl/stdcheaders.h
+END
+mprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1/zte-client-win/curl/mprintf.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1/zte-client-win/curl/Makefile.am
+END
+curlver.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1/zte-client-win/curl/curlver.h
+END
+typecheck-gcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1/zte-client-win/curl/typecheck-gcc.h
+END
+multi.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1/zte-client-win/curl/multi.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1/zte-client-win/curl/types.h
+END
+curlrules.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1/zte-client-win/curl/curlrules.h
+END
+curl.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1/zte-client-win/curl/curl.h
+END
+curlbuild.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1/zte-client-win/curl/curlbuild.h.in
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1/zte-client-win/curl/Makefile.in
+END
+easy.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1/zte-client-win/curl/easy.h
+END
+curlbuild.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1/zte-client-win/curl/curlbuild.h
+END
