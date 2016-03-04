@@ -8,12 +8,12 @@
 	2.MFC界面，界面开发难度大
 ##注意事项
 	如果使用该源码，请准守开源协议，并请勿修改原作者名称
-	[MIT协议内容](https://github.com/NullYing/GxClient/raw/master/LICENSE)
+	![MIT协议内容](https://github.com/NullYing/GxClient/raw/master/LICENSE)
 #客户端界面
 		该源码客户端界面
-![客户端界面](https://github.com/NullYing/GxClient/raw/master/images/GxClient.png)  
+		![客户端界面](https://raw.githubusercontent.com/NullYing/GxClient/master/images/GxClent.png)  
 		新客户端界面
-![新客户端界面](https://github.com/NullYing/GxClient/raw/master/images/NewGxClient.png)
+		![新客户端界面](https://github.com/NullYing/GxClient/raw/master/images/NewGxClient.png)
 ##支持新客户端开发
 	如你的学校符合认证类型，并想新客户端支持你所在的学校，请发送邮件至ourweijiang@gmail.com
 	邮件必须包含信息：
