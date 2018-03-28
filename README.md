@@ -2,7 +2,7 @@
 
 <p>    根据yxz广科校园网认证客户端源码进行二次开发，网页认证模式即将更改，所以停止更新，新版客户端雏形已完成，支持中兴+新天翼校园认证模式，考虑加入锐捷，但是没有环境测试</p>
 
-最后一版软件下载链接： (点击下载)[http://gkrg1b.qiniudn.com/GKClient_Setup.exe]
+最后一版软件下载链接： [点击下载](http://gkrg1b.qiniudn.com/GKClient_Setup.exe)
 
 该软件不再更新，仅供学习交流使用
 
