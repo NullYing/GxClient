@@ -1,35 +1,38 @@
-#gxgk-GxClient
-![gxgk](http://www.gxgk.cc/image/logo.png)
-##莞香客户端
+## 莞香客户端
+
 <p>    根据yxz广科校园网认证客户端源码进行二次开发，网页认证模式即将更改，所以停止更新，新版客户端雏形已完成，支持中兴+新天翼校园认证模式，考虑加入锐捷，但是没有环境测试</p>
 
-##编译环境
+最后一版软件下载链接： (点击下载)[http://gkrg1b.qiniudn.com/GKClient_Setup.exe]
+
+该软件不再更新，仅供学习交流使用
+
+## 编译环境
+
 * VS2015
 * 使用的开源库：curl、winpcap、zlib、libpng
 
-##不足之处
+## 不足之处
+
 * 1.残留过多过时代码，代码累赘，函数大都使用窗口类
 * 2.MFC界面，界面开发难度大
 
-##注意事项
+## 注意事项
+
 如果使用该源码，请遵守[MIT协议](https://github.com/NullYing/GxClient/raw/master/LICENSE)，并请勿修改原作者名称
-##客户端界面
+
+## 客户端界面
+
 该源码客户端界面<br />
 ![客户端界面](https://raw.githubusercontent.com/NullYing/GxClient/master/images/GxClent.png)  
 新客户端界面<br />
 ![新客户端界面](https://github.com/NullYing/GxClient/raw/master/images/NewGxClient.png)
-##支持新客户端开发
-	如你的学校符合认证类型，并想新客户端支持你所在的学校，请发送邮件至ourweijiang@gmail.com
-	邮件必须包含信息：
-		所在学校名:
-		认证方式：中兴+天翼 or 只中兴 or 只天翼
-		天翼的eduBas：
-		中兴的BasIP：(如果使用中兴)
 
-#莞香广科
+# 莞香广科
+
 [莞香广科](http://www.gxgk.cc)是学生自建的互联网创新团队。团队成立于2012年5月，以校园论坛起步，逐渐发展了校园网资源共享站、媒体中心、微信助手等项目。
 
-#客户端声明
+# 客户端声明
+
         **************************************************************************************
                                       Lucj’s Zte 客户端声明
     	/**************************************************************************************
